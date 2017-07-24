@@ -23,3 +23,13 @@ author = "selby"
 cpu = "Intel i5 6600k"
 gpu = "MSI GTX 1070"
 os = "Windows 10 10.0.14393"
+
+[[ testcases ]]
+title = "0004000000174600"
+compatibility = "1"
+date = "2017-07-23"
+version = "HEAD-081304e"
+author = "Breadfish64"
+cpu = "Intel Core i7-4700mq"
+gpu = "Nvidia Geforce GT 740m"
+os = "Windows 10 Home 1703"
