@@ -2,7 +2,6 @@ title = "Pilotwings Resort"
 description = "Pilotwings Resort is an amateur flight simulation video game for the Nintendo 3DS handheld game console, developed by Monster Games and published by Nintendo."
 needs_system_files = false
 needs_shared_font = false
-incomplete = true
 
 [[ releases ]]
 title = "0004000000031D00"
